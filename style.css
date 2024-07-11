@@ -1,4 +1,19 @@
 .darkmode {
     background-color: black;
     color: white;
+
+}
+.bodyy {
+    background-color: grey;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #eee;
+    text-align: center;
+}
+.id btn {
+    background-color: #353432;
+    color: #eee;
+    border: none;
+    padding: 5px 10px;
+    margin-top: 10px;
+    border-radius: 20px;
 }
